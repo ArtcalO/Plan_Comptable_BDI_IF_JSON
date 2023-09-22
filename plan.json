@@ -1,1 +1,1512 @@
-" "
+[
+	{
+		"classe":1,
+		"libelée":"tresorerie et operations financieres avec lesinstitutions financieres et autres partenaires",
+		"comnptes":[
+			{
+				"numéro":10,
+				"libelée":"en caisse",
+				"comptes":[
+					{
+						"numéro":101,
+						"libelée":"caisse",
+						"comptes":[
+							{
+								"numéro":1011,
+								"libelée":"caisse en francs burundais",
+								"comptes":[]
+							}
+						]
+					}
+				] 
+			},
+			{
+				"numéro":11,
+				"libelée":"dépôts",
+				"comptes":[
+					{
+						"numéro":111,
+						"libelée":"dépôts a vue",
+						"comptes":[
+							{
+								"numéro":1111,
+								"libelée": "banque centrale",
+								"comptes":[]
+							}
+							{
+								"numéro":1112,
+								"libelée": "organe financier des établissements en réseau : caisse centrale à vue",
+								"comptes":[]
+							}
+							{
+								"numéro":1113,
+								"libelée": "banques compte à vue",
+								"comptes":[]
+							}
+							{
+								"numéro":1114,
+								"libelée": "etablissements de microfinance compte à vue",
+								"comptes":[]
+							}
+							{
+								"numéro":1115,
+								"libelée": "régie nationale des postes compte à vue",
+								"comptes":[]
+							}
+						]
+					},
+					{
+						"numéro":112,
+						"libelée":"depots a terme",
+						"comptes":[
+							{
+								"1121"
+								"libelée":"dépôts à court terme",
+								"comptes":[],
+							}, 
+							{
+								"1122"
+								"libelée":"dépôts à moyen terme",
+								"comptes":[],
+							}, 
+							{
+								"1123"
+								"libelée":"dépôts à long terme",
+								"comptes":[],
+							}, 
+						]
+
+					},
+					{
+						"numéro":116,
+						"libelée":"interets courus sur les depots",
+						"comptes":[]
+					}
+				]
+			},
+			{
+				"numéro":12,
+				"libelée":"valeurs a encaisser",
+				"comptes":[]
+			},
+			{
+				"numéro":13,
+				"libelée":"emprunts",
+				"comptes":[
+					{
+						"numéro":131,
+						"libelée":"emprunts a court terme et decouverts de banque",
+						"comptes":[
+							{
+								"numéro":1311,
+								"libelée":"organe financier des établissements en réseau : caisse centrale",
+								"comptes":[]
+							},
+							{
+								"numéro":1312,
+								"libelée":"banques",
+								"comptes":[]
+							},
+							{
+								"numéro":1313,
+								"libelée":"etablissements de microfinance",
+								"comptes":[]
+							},
+							{
+								"numéro":1314,
+								"libelée":"autres partenaires",
+								"comptes":[]
+							},
+							{
+								"numéro":1317,
+								"libelée":"dettes de crédit-bail et contrats assimilés",
+								"comptes":[]
+							},
+						]	
+					},
+					{
+						"numéro":132,
+						"libelée":"emprunts a moyen terme",
+						"comptes":[
+							{
+								"numéro":1321,
+								"libelée":"organe financier des établissements en réseau : caisse centrale"
+							},
+							{
+								"numéro":1322,
+								"libelée":"banques"
+							},
+							{
+								"numéro":1323,
+								"libelée":"etablissements de microfinance"
+							},
+							{
+								"numéro":1324,
+								"libelée":"autres partenaires"
+							},
+							{
+								"numéro":1327,
+								"libelée":"dettes de crédit-bail et contrats assimilés"
+							},
+							
+						]	
+					},
+					{
+						"numéro":133,
+						"libelée":"emprunts a long terme",
+						"comptes":[
+							{
+								"numéro":1331,
+								"libelée":"organe financier des établissements en réseau : caisse centrale",
+								"comptes":[]
+							},
+							{
+								"numéro":1332,
+								"libelée":"banques",
+								"comptes":[]
+							},
+							{
+								"numéro":1333,
+								"libelée":"etablissements de microfinance",
+								"comptes":[]
+							},
+							{
+								"numéro":1334,
+								"libelée":"autres partenaires"
+							},
+							{
+								"numéro":1337,
+								"libelée":"dettes de crédit-bail et contrats assimilés",
+								"comptes":[]
+							},
+							
+						]	
+					},
+					{
+						"numéro":136,
+						"libelée":"interets courus sur emprunts",
+						"comptes":[
+							
+						]	
+					},
+				]
+			},
+			{
+				"numéro":14, 
+				"libelée":"prets aux institutions financieres",
+				"comptes":[
+					{
+						"numéro":141,
+						"libelée":"prets a court terme ",
+						"comptes":[]
+					},
+					{
+						"numéro":142,
+						"libelée":"prets a moyen terme ",
+						"comptes":[]
+					},
+					{
+						"numéro":143,
+						"libelée":"prets a long terme ",
+						"comptes":[]
+					},
+					{
+						"numéro":146,
+						"libelée":"intérêts courus sur prets",
+						"comptes":[]
+					},
+				]
+			},
+			{
+				"numéro":15,
+				"libelée":"ressources affectees",
+				"comptes":[]
+			},
+			{
+				"numéro":16,
+				"libelée":"subventions reçues non encore utilisees",
+				"comptes":[
+					{
+						"numéro":161,
+						"libelée":"subventions d’exploitation reçues utilisees",
+						"comptes":[]
+					},
+					{
+						"numéro":162,
+						"libelée":"subventions d’investissement reçues non encore utilisees",
+						"comptes":[]
+					},
+				]
+			},
+			{
+				"numéro":18,
+				"libelée":"virement interne",
+				"comptes":[]
+			},
+			{
+				"numéro":19,
+				"libelée":"provisions pour dépréciation des comptes de classe 1",
+				"comptes":[]
+			},
+		]
+	},
+	{
+		"classe":2,
+		"libelée":"operations avec les membres, clients et beneficiaires",
+		"comptes":[
+			{
+				"numéro":21,
+				"libelée":"credits a l'economie",
+				"comptes":[
+					{
+						"numéro":211,
+						"libelée":"credits sains sur ressources non affectees",
+						"comptes":[
+							{
+								"numéro":2111,
+								"libelée":"crédits sains à court terme",
+								"comptes":[]
+							},
+							{
+								"numéro":2112,
+								"libelée":"crédits sains à moyen terme",
+								"comptes":[]
+							},
+							{
+								"numéro":2113,
+								"libelée":"crédits sains à long terme",
+								"comptes":[]
+							},
+						]
+					},
+					{
+						"numéro":212,
+						"libelée":"credits sains sur ressources affectees",
+						"comptes":[
+							{
+								"numéro":2121,
+								"libelée":"crédits sains à court terme",
+								"comptes":[]
+							},
+							{
+								"numéro":2122,
+								"libelée":"crédits sains à moyen terme",
+								"comptes":[]
+							},
+							{
+								"numéro":2123,
+								"libelée":"crédits sains à long terme",
+								"comptes":[]
+							},
+						]
+					},
+					{
+						"numéro":213,
+						"libelée":"credits restructures ou reechelonnes",
+						"comptes":[
+							
+						]
+					},
+					{
+						"numéro":214,
+						"libelée":"credits en souffrance",
+						"comptes":[
+							{
+								"numéro":2141,
+								"libelée":"credits sur ressources non affectees en souffrance",
+								"comptes":[]
+							},
+							{
+								"numéro":2142,
+								"libelée":"credits sur ressources affectees en souffrance",
+								"comptes":[]
+							},
+						]
+					},
+				]
+			},
+			{
+				"numéro":22,
+				"libelée":"depots des membres, clients et beneficiaires",
+				"comptes":[
+					{
+						"numéro":221,
+						"libelée":"depots a vue ",
+						"comptes":[
+							{
+								"numéro":2211,
+								"libelée":"dépôts à vue des individus ",
+								"comptes":[]
+							},
+							{
+								"numéro":2212,
+								"libelée":"dépôts à vue des groupes de solidarité ",
+								"comptes":[]
+							},
+							{
+								"numéro":2213,
+								"libelée":"dépôts à vue des personnes morales (sociétés)",
+								"comptes":[]
+							},
+						]
+					},
+					{
+						"numéro":222,
+						"libelée":"depots a terme",
+						"comptes":[
+							{
+								"numéro":2221,
+								"libelée":"dépôts à terme des individus ",
+								"comptes":[]
+							},
+							{
+								"numéro":2222,
+								"libelée":"dépôts à terme des groupes de solidarité ",
+								"comptes":[]
+							},
+							{
+								"numéro":2223,
+								"libelée":"dépôts à terme des personnes morales (sociétés)",
+								"comptes":[]
+							},
+						]
+					},
+					{
+						"numéro":223,
+						"libelée":"comptes d’épargne",
+						"comptes":[
+							{
+								"numéro":2231,
+								"libelée":"comptes d’épargne/xxxxxx",
+							},
+							{
+								"numéro":2232,
+								"libelée":"comptes d’épargne/xxxxxx",
+							},
+						]
+					},
+					{
+						"numéro":224,
+						"libelée":"depots de garantie sur credit accorde ",
+						"comptes":[]
+					},
+					{
+						"numéro":225,
+						"libelée":"autres depots",
+						"comptes":[]
+					},
+					{
+						"numéro":226,
+						"libelée":" interets courus sur depots des membres, clients et beneficiaires",
+						"comptes":[
+							{
+								"numéro":2261,
+								"libelée":"intérêts courus à payer sur dépôts à vue",
+								"comptes":[]
+							},
+							{
+								"numéro":2262,
+								"libelée":"intérêts courus à payer sur dépôts à terme",
+								"comptes":[]
+							},
+							{
+								"numéro":2263,
+								"libelée":"intérêts courus à payer sur comptes d’épargne",
+								"comptes":[]
+							},
+						]
+					},
+				]
+			},
+			{
+				"numéro":26,
+				"libelée":"interets courus sur credits",
+				"comptes":[
+					{
+						"numéro":261,
+						"libelée":"interets courus sur credits sains sur ressources non affectees",
+						"comptes":[]
+					},
+					{
+						"numéro":262,
+						"libelée":"interets courus sur credits sains sur ressources  affectees",
+						"comptes":[]
+					},
+					{
+						"numéro":263,
+						"libelée":"interets courus sur credits restructures ou reechelonnes",
+						"comptes":[]
+					},
+				]
+			}
+			{
+				"numéro":29,
+				"libelée":"provision des credits en souffrance",
+				"comptes":[
+					{
+						"numéro":291,
+						"libelée":"provision des credits en souffrance sur ressources non affectees",
+						"comptes":[]
+					},
+					{
+						"numéro":292,
+						"libelée":"provision des credits en souffrance sur ressources affectees",
+						"comptes":[]
+					},
+				]
+			}
+		]
+	},
+	{
+		"classe":3,
+		"libelée":"operations diverses",
+		"comptes":[
+			{	
+				"numéro":30,
+				"libelée":"stocks",
+				"comptes":[]
+			},
+			{	
+				"numéro":31,
+				"libelée":"debiteurs divers",
+				"comptes":[]
+			},
+			{	
+				"numéro":32,
+				"libelée":"compte de liaison",
+				"comptes":[]
+			},
+			{	
+				"numéro":33,
+				"libelée":"crediteurs divers",
+				"comptes":[
+					{
+						"numéro":331,
+						"libelée":"securité sociale, inss ",
+						"comptes":[]
+					},
+					{
+						"numéro":332,
+						"libelée":"impot",
+						"comptes":[
+							{
+								"numéro":3321,
+								"libelée":"impôt sur salaire",
+								"comptes":[]
+							},
+							{
+								"numéro":3322,
+								"libelée":"autres impôts et contributions fiscales",
+								"comptes":[]
+							},
+						]
+					},
+					{
+						"numéro":333,
+						"libelée":"mutuelle d’assurance maladie",
+						"comptes":[]
+					},
+					{
+						"numéro":335,
+						"libelée":"dividendes a distribuer",
+						"comptes":[]
+					},
+					{
+						"numéro":338,
+						"libelée":"autres crediteurs divers",
+						"comptes":[]
+					},
+				]
+			},
+			{
+				"numéro":35,
+				"libelée":"avances, prets au personnel et aux dirigeants",
+				"comptes":[
+					{
+						"numéro":351,
+						"libelée":"personnel - avances sur salaire (à détailler pour chaque pers)",
+						"comptes":[],
+					},
+					{
+						"numéro":352,
+						"libelée":"dirigeants – decouverts (à détailler pour chaque pers)",
+						"comptes":[],
+					},
+					{
+						"numéro":353,
+						"libelée":"personnel – prets (à détailler pour chaque pers)",
+						"comptes":[],
+					},
+					{
+						"numéro":354,
+						"libelée":"dirigeants– prets (à détailler pour chaque pers)",
+						"comptes":[
+							{
+								"numéro":356,
+								"libelée":"interets courus sur prets au personnel et aux dirigeants",
+								"comptes":[]
+							}
+						],
+					},
+				]
+			},
+			{
+				"numéro":36,
+				"libelée":"comptes de régularisation d’actif",
+				"comptes":[
+					{
+						"numéro":361,
+						"libelée":"charges payees d'avance",
+						"comptes":[],
+					},
+					{
+						"numéro":362,
+						"libelée":"produits a recevoir",
+						"comptes":[],
+					},
+					{
+						"numéro":363,
+						"libelée":"autres comptes de regularisation d’actif",
+						"comptes":[],
+					},
+				]
+			},
+			{
+				"numéro":37,
+				"libelée":"comptes de régularisation de passif",
+				"comptes":[
+					{
+						"numéro":371,
+						"libelée":"charges a payer",
+						"comptes":[]
+					}
+				]
+			},
+		]
+	},
+	{
+		"classe":4,
+		"libelée":"immobilisations",
+		"comptes":[
+			{
+				"numéro":40,
+				"libelée":"immobilisations financieres ",
+				"comptes":[
+					{
+						"numéro":401,
+						"libelée":"depots et cautionnements verses",
+						"comptes":[
+							{
+								"numéro":4011,
+								"libelée":"dépôts et cautionnements pour le loyer",
+								"comptes":[]
+							},
+							{
+								"numéro":4012,
+								"libelée":"dépôts et cautionnements pour l’électricité",
+								"comptes":[]
+							},
+							{
+								"numéro":4013,
+								"libelée":"dépôts et cautionnements pour l’eau",
+								"comptes":[]
+							},
+							{
+								"numéro":4014,
+								"libelée":"dépôts et cautionnements pour le téléphone",
+								"comptes":[]
+							},
+							{
+								"numéro":4018,
+								"libelée":"autres dépôts et cautionnements",
+								"comptes":[]
+							},
+						]
+					},
+					{
+						"numéro":408,
+						"libelée":"autres immobilisations financieres",
+						"comptes":[]
+					},
+				]
+			},
+			{
+				"numéro":41,
+				"libelée":"immobilisations en cours",
+				"comptes":[
+					{
+						"numéro":411,
+						"libelée":"avances versées sur immobilisations incorporelles ",
+						"comptes":[],
+					},
+					{
+						"numéro":412,
+						"libelée":"avances versées sur immobilisations corporelles",
+						"comptes":[],
+					},	
+				]
+			},
+			{
+				"numéro":42,
+				"libelée":"immobilisations incorporelles ",
+				"comptes":[
+					{
+						"numéro":421,
+						"libelée":"frais d’etablissement",
+						"comptes":[],
+					},
+					{
+						"numéro":428,
+						"libelée":"autres immobilisations incorporelles",
+						"comptes":[],
+					},
+				]
+			},
+			{
+				"numéro":43,
+				"libelée":"immobilisations corporelles",
+				"comptes":[
+					{
+						"numéro":431,
+						"libelée":"terrains et amenagements de terrain",
+						"comptes":[
+							{
+								"numéro":4311,
+								"libelée":"terrains",
+								"comptes":[],
+							},
+							{
+								"numéro":4312,
+								"libelée":"aménagements de terrain",
+								"comptes":[],
+							},
+
+						],
+					},
+					{
+						"numéro":432,
+						"libelée":"immeubles",
+						"comptes":[
+							{
+								"numéro":4321,
+								"libelée":"immeubles d’exploitation ",
+								"comptes":[],
+							},
+							{
+								"numéro":4322,
+								"libelée":"immeubles hors exploitation",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":433,
+						"libelée":"ameliorations locatives",
+						"comptes":[],
+					},
+					{
+						"numéro":434,
+						"libelée":"materiel et mobilier",
+						"comptes":[
+							{
+								"numéro":4341,
+								"libelée":"matériel de bureau et mobilier",
+								"comptes":[],
+							},
+							{
+								"numéro":4342,
+								"libelée":"matériel informatique et bureautique",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":435,
+						"libelée":"materiel roulant",
+						"comptes":[],
+					},
+					{
+						"numéro":438,
+						"libelée":"autres immobilisations corporelles",
+						"comptes":[],
+					},
+				]
+			},
+			{
+				"numéro":48,
+				"libelée":"amortissement ",
+				"comptes":[
+					{
+						"numéro":482,
+						"libelée":"amortissement des immobilisations incorporelles",
+						"comptes":[],
+					},
+					{
+						"numéro":483,
+						"libelée":"amortissement des immobilisations corporelles",
+						"comptes":[
+							{
+								"numéro":4831,
+								"libelée":"amortissement des aménagements de terrain",
+								"comptes":[],
+							},
+							{
+								"numéro":4832,
+								"libelée":"amortissement des immeubles",
+								"comptes":[],
+							},
+							{
+								"numéro":4833,
+								"libelée":"amortissement des améliorations locatives",
+								"comptes":[],
+							},
+							{
+								"numéro":4834,
+								"libelée":"amortissement du matériel et du mobilier",
+								"comptes":[],
+							},
+							{
+								"numéro":4835,
+								"libelée":"amortissement du matériel roulant",
+								"comptes":[],
+							},
+							{
+								"numéro":4838,
+								"libelée":"amortissement des autres immobilisations corporelle",
+								"comptes":[],
+							},
+						],
+					},
+				]
+			},
+			{
+				"numéro":49,
+				"libelée":"provision pour depreciation des immobilisations ",
+				"comptes":[
+					{
+						"numéro":490,
+						"libelée":"provision pour depreciation des immobilisations  financieres",
+						"comptes":[],
+					},
+					{
+						"numéro":492,
+						"libelée":"provision pour depreciation des immobilisations  incorporelles",
+						"comptes":[],
+					},
+					{
+						"numéro":493,
+						"libelée":"provision pour depreciation des immobilisations corporelles",
+						"comptes":[
+							{
+								"numéro":4931,
+								"libelée":"provision pour dépréciation des aménagements de terrain",
+								"comptes":[],
+							},
+							{
+								"numéro":4932,
+								"libelée":"provision pour dépréciation des immeubles",
+								"comptes":[],
+							},
+							{
+								"numéro":4933,
+								"libelée":"provision pour dépréciation des améliorations locatives",
+								"comptes":[],
+							},
+							{
+								"numéro":4934,
+								"libelée":"provision pour dépréciation du matériel et du mobilier",
+								"comptes":[],
+							},
+							{
+								"numéro":4935,
+								"libelée":"provision pour dépréciation du matériel roulant",
+								"comptes":[],
+							},
+							{
+								"numéro":4938,
+								"libelée":"provision pour dépréciation des autres immobilisations corporelles",
+								"comptes":[],
+							},
+						],
+					},
+				]
+			},
+		]
+	},
+	{
+		"classe":5, 
+		"libelée":"fonds propres et assimiles",
+		"comptes":[
+			{
+				"numéro":50,
+				"libelée":"provisions pour risques ou a caractere de reserve",
+				"comptes":[],
+			},
+			{
+				"numéro":51,
+				"libelée":"fonds affectés",
+				"comptes":[
+					{
+						"numéro":511,
+						"libelée":"fonds de securite ",
+						"comptes":[],
+					},
+					{
+						"numéro":512,
+						"libelée":"fonds d’auto assurance ",
+						"comptes":[],
+					},
+					{
+						"numéro":518,
+						"libelée":"autres fonds affectés",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":52,
+				"libelée":"subventions d’investissement",
+				"comptes":[
+					{
+						"numéro":521,
+						"libelée":"subventions pour immobilisations",
+						"comptes":[],
+					},
+					{
+						"numéro":522,
+						"libelée":"subventions pour fonds de credit",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":53,
+				"libelée":"report à nouveau",
+				"comptes":[
+					{
+						"numéro":531,
+						"libelée":"report à nouveau crediteur",
+						"comptes":[],
+					},
+					{
+						"numéro":532,
+						"libelée":"report à nouveau debiteur ",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":54,
+				"libelée":"reserves",
+				"comptes":[
+					{
+						"numéro":541,
+						"libelée":"reserve legale",
+						"comptes":[],
+					},
+					{
+						"numéro":542,
+						"libelée":"reserves statutaires",
+						"comptes":[],
+					},
+					{
+						"numéro":543,
+						"libelée":"ecarts de reevaluation",
+						"comptes":[],
+					},
+					{
+						"numéro":548,
+						"libelée":"autres reserves",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":55,
+				"libelée":"capital",
+				"comptes":[
+					{
+						"numéro":551,
+						"libelée":"capital souscrit",
+						"comptes":[
+							{
+								"numéro":5511,
+								"libelée":"capital souscrit libéré",
+								"comptes":[],
+							},
+							{
+								"numéro":5512,
+								"libelée":"capital souscrit non libéré",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":552,
+						"libelée":"primes liees au capital ",
+						"comptes":[],
+					},
+					{
+						"numéro":553,
+						"libelée":"fonds de dotation",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":56,
+				"libelée":"resultat de l'exercice ",
+				"comptes":[],
+			},
+			
+		]
+	},
+	{
+		"classe":6,
+		"libelée":"charges",
+		"comptes":[
+			{
+				"numéro":60,
+				"libelée":"charges d’interets",
+				"comptes":[
+					{
+						"numéro":601,
+						"libelée":"charges d’interets sur operations avec les institutions financieres",
+						"comptes":[
+							{
+								"numéro":6011,
+								"libelée":"intérêts sur emprunts auprès de la faîtière - caisse centrale",
+								"comptes":[],
+							},
+							{
+								"numéro":6012,
+								"libelée":"intérêts sur emprunts auprès des banques",
+								"comptes":[],
+							},
+							{
+								"numéro":6013,
+								"libelée":"intérêts sur emprunt auprès des établissements de  microfinance",
+								"comptes":[],
+							},
+							{
+								"numéro":6018,
+								"libelée":"intérêts sur emprunts auprès d’autres établissement",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":602,
+						"libelée":"charges d’interets sur operations avec les membres, clients et  beneficiaires",
+						"comptes":[
+							{
+								"numéro":6021,
+								"libelée":"charges d’intérêts sur opérations des dépôts à vue ",
+								"comptes":[],
+							},
+							{
+								"numéro":6022,
+								"libelée":"charges d’intérêts sur opérations des dépôts à terme ",
+								"comptes":[],
+							},
+							{
+								"numéro":6028,
+								"libelée":"charges d’intérêts sur opérations des autres dépôts",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":608,
+						"libelée":"autres charges d’interets",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":61,
+				"libelée":"commissions supportees sur operations financieres",
+				"comptes":[
+					{
+						"numéro":611,
+						"libelée":"commissions sur engagements de financement reçus",
+						"comptes":[],
+					},
+					{
+						"numéro":612,
+						"libelée":"commissions sur garanties reçues",
+						"comptes":[],
+					},
+					{
+						"numéro":618,
+						"libelée":"autres commission",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":62,
+				"libelée":"autres charges financieres",
+				"comptes":[
+					{
+						"numéro":621,
+						"libelée":"agios sur comptes bancaires",
+						"comptes":[],
+					},
+					{
+						"numéro":622,
+						"libelée":"frais de contentieux lies aux operations de credit",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":63,
+				"libelée":"charges generales d'exploitation",
+				"comptes":[
+					{
+						"numéro":630,
+						"libelée":"achats de fournitures",
+						"comptes":[
+							{
+								"numéro":6301,
+								"libelée":"produits d'entretien",
+								"comptes":[],
+							}
+							{
+								"numéro":6302,
+								"libelée":"fournitures de bureau et d’informatique",
+								"comptes":[],
+							}
+							{
+								"numéro":6303,
+								"libelée":"eau et électricité",
+								"comptes":[],
+							}
+							{
+								"numéro":6304,
+								"libelée":"imprimés",
+								"comptes":[],
+							}
+							{
+								"numéro":6305,
+								"libelée":"carburant et lubrifiant",
+								"comptes":[],
+							}
+							{
+								"numéro":6308,
+								"libelée":"autres achats de fournitures",
+								"comptes":[],
+							}
+						],
+					},
+					{
+						"numéro":631,
+						"libelée":"variation de stocks",
+						"comptes":[],
+					},
+					{
+						"numéro":632,
+						"libelée":"transport et deplacement",
+						"comptes":[
+							{
+								"numéro":6321,
+								"libelée":"transport du personnel",
+								"comptes":[],
+							}
+							{
+								"numéro":6322,
+								"libelée":"transport des membres des organes dirigeants",
+								"comptes":[],
+							}
+							{
+								"numéro":6328,
+								"libelée":"autres frais de transport",
+								"comptes":[],
+							}
+						],
+					},
+					{
+						"numéro":633,
+						"libelée":"location",
+						"comptes":[
+							{
+								"numéro":6331,
+								"libelée":"location d’immeubles",
+								"comptes":[],
+							},
+							{
+								"numéro":6332,
+								"libelée":"location de matériel",
+								"comptes":[],
+							},
+							{
+								"numéro":6338,
+								"libelée":"autres locations",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":634,
+						"libelée":"entretien et reparations",
+						"comptes":[
+							{
+								"numéro":6341,
+								"libelée":"entretien et réparations des biens immobiliers",
+								"comptes":[],
+							},
+							{
+								"numéro":6342,
+								"libelée":"entretien et réparations des biens mobiliers",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":635,
+						"libelée":"primes d'assurance",
+						"comptes":[
+							{
+								"numéro":6351,
+								"libelée":"assurance du matériel roulant",
+								"comptes":[],
+							},
+							{
+								"numéro":6352,
+								"libelée":"assurance des immeubles",
+								"comptes":[],
+							},
+							{
+								"numéro":6353,
+								"libelée":"assurance des fonds de trésorerie",
+								"comptes":[],
+							},
+							{
+								"numéro":6358,
+								"libelée":"autres primes d'assurance",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":636,
+						"libelée":"publicite et relations publiques",
+						"comptes":[
+							{
+								"numéro":6361,
+								"libelée":"imprimés publicitaires",
+								"comptes":[],
+							},
+							{
+								"numéro":6362,
+								"libelée":"frais de colloques, séminaires, conférences",
+								"comptes":[],
+							},
+							{
+								"numéro":6368,
+								"libelée":"autres charges de publicité et relations publiques",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":637,
+						"libelée":"frais de communication",
+						"comptes":[],
+					},
+					{
+						"numéro":638,
+						"libelée":"honoraires et prestations externes",
+						"comptes":[
+							{
+								"numéro":6381,
+								"libelée":"frais et honoraires de contentieux liés aux crédits ",
+								"comptes":[],
+							},
+							{
+								"numéro":6382,
+								"libelée":"honoraires des commissaires aux comptes et auditeurs externes ",
+								"comptes":[],
+							},
+							{
+								"numéro":6383,
+								"libelée":"honoraires pour service-conseil (avocat,notaire,autres expert) ",
+								"comptes":[],
+							},
+							{
+								"numéro":6388,
+								"libelée":"autres honoraires et prestations externes",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":639,
+						"libelée":"charges generales d’exploitation diverses",
+						"comptes":[
+							{
+								"numéro":6391,
+								"libelée":"frais de formation ",
+								"comptes":[],
+							},
+							{
+								"numéro":6392,
+								"libelée":"frais d’assemblée générale et frais des organes dirigeants ",
+								"comptes":[],
+							},
+							{
+								"numéro":6393,
+								"libelée":"frais de missions ",
+								"comptes":[],
+							},
+							{
+								"numéro":6398,
+								"libelée":"autres charges générales d’exploitation diverses",
+								"comptes":[],
+							},
+						],
+					},
+				],
+			},
+			{
+				"numéro":64,
+				"libelée":"impots et taxes",
+				"comptes":[
+					{
+						"numéro":641,
+						"libelée":"impots et taxes",
+						"comptes":[
+							{
+								"numéro":6411,
+								"libelée":"impôts fonciers et taxes annexes",
+								"comptes":[],
+							},
+							{
+								"numéro":6412,
+								"libelée":"impôts sur véhicules",
+								"comptes":[],
+							},
+							{
+								"numéro":6418,
+								"libelée":"autres impôts et taxes directes",
+								"comptes":[],
+							},
+						],
+					},
+					{
+						"numéro":642,
+						"libelée":"penalites et amendes fiscales",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":65,
+				"libelée":"personnel",
+				"comptes":[
+					{
+						"numéro":651,
+						"libelée":"remunerations au personnel",
+						"comptes":[],
+					},
+					{
+						"numéro":6511,
+						"libelée":"salaires, primes et indemnités",
+						"comptes":[],
+					},
+					{
+						"numéro":6512,
+						"libelée":"congés payés",
+						"comptes":[],
+					},
+					{
+						"numéro":6513,
+						"libelée":"indemnités de préavis et de licenciement",
+						"comptes":[],
+					},
+					{
+						"numéro":6518,
+						"libelée":"autres rémunérations",
+						"comptes":[],
+					},
+					{
+						"numéro":652,
+						"libelée":"charges sociales",
+						"comptes":[],
+					},
+					{
+						"numéro":6521,
+						"libelée":"sécurité sociales, inss",
+						"comptes":[],
+					},
+					{
+						"numéro":6522,
+						"libelée":"mutuelle d’assurance maladie",
+						"comptes":[],
+					},
+					{
+						"numéro":6523,
+						"libelée":"soins médicaux",
+						"comptes":[],
+					},
+					{
+						"numéro":6528,
+						"libelée":"autres charges sociales",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":66,
+				"libelée":"autres charges",
+				"comptes":[
+					{
+						"numéro":661,
+						"libelée":"pertes sur credits et sur autres creances ",
+						"comptes":[],
+					},
+					{
+						"numéro":6611,
+						"libelée":"pertes sur crédit",
+						"comptes":[],
+					},
+					{
+						"numéro":6618,
+						"libelée":"pertes sur autres créance",
+						"comptes":[],
+					},
+					{
+						"numéro":662,
+						"libelée":"pertes nettes sur cession d’actif immobilise ",
+						"comptes":[],
+					},
+					{
+						"numéro":663,
+						"libelée":"charges diverses ",
+						"comptes":[],
+					},
+					{
+						"numéro":6631,
+						"libelée":"perte sur fraude, vol, détournemen",
+						"comptes":[],
+					},
+					{
+						"numéro":6638,
+						"libelée":"autres charges diverses",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":68,
+				"libelée":"dotations aux amortissements et aux provisions",
+				"comptes":[
+					{
+						"numéro":681,
+						"libelée":"dotations aux amortissements ",
+						"comptes":[],
+					},
+					{
+						"numéro":6812,
+						"libelée":"dotations aux amort.des immobilisations incorporelles",
+						"comptes":[],
+					},
+					{
+						"numéro":6813,
+						"libelée":"dotations aux amort.des immobilisations corporelles ",
+						"comptes":[],
+					},
+					{
+						"numéro":682,
+						"libelée":"dotations aux provisions ",
+						"comptes":[],
+					},
+					{
+						"numéro":6821,
+						"libelée":"dotations aux prov.sur les actifs de la classe 1 ou 3",
+						"comptes":[],
+					},
+					{
+						"numéro":6822,
+						"libelée":"dotations aux prov. sur les crédits",
+						"comptes":[],
+					},
+					{
+						"numéro":6823,
+						"libelée":"dotations aux prov. pour risques ou à caractère de réserve",
+						"comptes":[],
+					},
+				],
+			},
+			{
+				"numéro":69,
+				"libelée":"impots sur le resultat",
+				"comptes":[],
+			},
+		]
+	},
+	{
+		"classe":7,
+		"libelée":"produits",
+		"comptes":[
+			
+		]
+	}
+]
+	
+classe 7 : produits 		
+70. produits d’interets 		
+	701. produits d’interets sur operations avec les institutions financieres	
+	7011. intérêts sur les dépôts 	7011. intérêts sur les dépôts 
+	7012. intérêts sur prêts consentis 	7012. intérêts sur prêts consentis 
+	702. produits d’interets sur les credits sains 	702. produits d’interets sur les credits sains 
+	703. produits d’interets sur les credits sur ressources affectees 	703. produits d’interets sur les credits sur ressources affectees 
+71. commissions sur operations financieres 		
+	711. commissions sur dossiers de credit 	
+	712. frais de tenue de comptes 	
+	713. commissions sur systemes de paiement 	
+		7131. commissions sur virements 
+		7132. commissions sur encaissement d’effets ou de chèques 
+		7138. commissions sur autres moyens de paiement 
+	718. autres commissions sur prestations de services 	
+72. autres produits financiers et non financiers 		
+	721. produits sur les immobilisations financieres 	
+	722. produits nets sur cession d’actif immobilise 	
+	723. frais d’adhesion 	
+	728. autres produits 	
+73. subventions 		
+	731. subventions d'exploitation 	
+	732. subventions d’equilibre 	
+	733. quote-part de subventions d’investissement reprises et qffectees au resultat	
+74. produits exceptionnels 		
+	741. encaissement de credits radies des livres 	
+	748. autres produits exceptionnels 	
+79. reprises d’amortissements et de provisions 		
+	791. reprises sur amortissements 	
+		7911. reprises sur amort.des immobilisations incorporelles 
+		7912. reprises sur amor.des immobilisations corporelles 
+	792. reprises sur provisions 	792. reprises sur provisions 
+		7921. reprises sur prov.sur crédits en souffrance 
+		7922. reprises sur prov.pour risques ou à caractère de réserve 
+classe 8 : comptes de resultats 		
+	80. produit net financier 	
+	81. marge beneficiaire 	
+	82. resultat brut d’exploitation 	
+	83. resultat avant impots 	
+	84. resultat net de l’exercice 	
+		841. bénéfice de l’exercice 
+		842. déficit de l’exercice 
+classe 9 : comptes hors bilan 		
+90. engagements donnes 		
+	901. engagements de financement 	
+		9011. engagements de financement donnés en faveur l’institutions financières 
+		9012. engagements de financement donnés en faveur des membres, clients et   bénéficiaires
+	902. engagements de garantie 	
+		9021. engagements de garantie d’ordre des institutions financières 
+		9022. engagements de garantie d’ordre des membres, clients et bénéficiaires 
+	908. autres engagements donnes 	
+91. engagements reçus 		
+	911. engagements de financement reçus des institutions financieres 	
+	912. engagements de garantie d’ordre des institutions financieres 	
+	918. autres engagements reçus 	
